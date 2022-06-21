@@ -9,7 +9,7 @@ I've been programming for the past 4 years. I started with Python and am now lea
 * 🌍  I'm based in Michigan
 * 🖥️  See my portfolio at [Github Repos](http://github.com/Abid-Chowdhury?tab=repositories)
 * ✉️  You can contact me at [mr.abid2004@gmail.com](mailto:mr.abid2004@gmail.com)
-* 🚀  I'm currently working on [Harvard CS50 Course](http://https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+* 🚀  I'm currently working on [Harvard CS50 Course](http://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 * 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on interesting projects
 
