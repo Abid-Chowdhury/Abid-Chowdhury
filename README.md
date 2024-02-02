@@ -4,7 +4,7 @@ Hi 👋 My name is Abid Chowdhury
 Software Engineer & Designer
 ----------------------------
 
-I've been programming for the past 4 years. I started with Python and am now learning C, HTML, CSS, and JS.
+I've been programming for the past 6 years. I started with Python and am now learning C, HTML, CSS, and JS.
 
 * 🌍  I'm based in Michigan
 * 🖥️  See my portfolio at [Github Repos](http://github.com/Abid-Chowdhury?tab=repositories)
