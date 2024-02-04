@@ -1,45 +1,31 @@
-Hi 👋 My name is Abid Chowdhury
-===============================
+<h1 align="center">Hi 👋, I'm Abid</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
-Software Engineer & Designer
-----------------------------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abid-chowdhury" alt="abid-chowdhury" /></a> </p>
 
-I've been programming for the past 6 years. I started with Python and am now learning C, HTML, CSS, and JS.
+- 🌱 I’m currently learning **Java**
 
-* 🌍  I'm based in Michigan
-* 🖥️  See my portfolio at [Github Repos](http://github.com/Abid-Chowdhury?tab=repositories)
-* ✉️  You can contact me at [mr.abid2004@gmail.com](mailto:mr.abid2004@gmail.com)
-* 🚀  I'm currently working on [Harvard CS50 Course](http://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
-* 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on interesting projects
+- 👨‍💻 All of my projects are available [here](https://github.com/Abid-Chowdhury?tab=repositories)
 
-### Skills
+- 📫 How to reach me **mr.abid2004@gmail.com**
 
+- 📄 View my resume [here](https://docs.google.com/document/d/19zYx6Bk6yJLXMNZrF-Z-pPpl_rPtQme2PZkZpgbc_F0/edit?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://discord.gg/abid04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abid04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abid-chy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abid-chy/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13131755/abid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13131755/abid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/abid-chy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abid-chy/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+< align="left"> 
 
-### Socials
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-<p align="left"> <a href="https://discord.com/users/Abid#3903" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Abid-Chowdhury" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/abid.o4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abid-cho/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13131755/abid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abid-chowdhury&show_icons=true&locale=en&layout=compact" alt="abid-chowdhury" /></p>
 
-### Badges
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abid-chowdhury&show_icons=true&locale=en" alt="abid-chowdhury" /></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Abid-Chowdhury"><img src="https://github-readme-stats.vercel.app/api?username=Abid-Chowdhury&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abid-Chowdhury's GitHub stats" /></a>
-
-<a href="http://www.github.com/Abid-Chowdhury"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abid-Chowdhury&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Abid-Chowdhury"><img src="https://activity-graph.herokuapp.com/graph?username=Abid-Chowdhury&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Abid-Chowdhury" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abid-Chowdhury&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/abid04"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abid-chowdhury&" alt="abid-chowdhury" /></p>
