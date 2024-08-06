@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **mr.abid2004@gmail.com**
 
-- 📄 View my resume [here](https://docs.google.com/document/d/19zYx6Bk6yJLXMNZrF-Z-pPpl_rPtQme2PZkZpgbc_F0/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/abid04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abid04" height="30" width="40" /></a>
